@@ -1,3 +1,4 @@
+I am creating fully functional dashboard using ReactDOM.It is very exciting to make graphs and thing's in React 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
